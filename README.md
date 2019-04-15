@@ -1,6 +1,10 @@
 # PintInvaders
 
-Just click to run.
+Download, unzip.
+
+Right-Click Dev -> Open
+
+Game should start up!
 
 Press Space to active the ship.
 
